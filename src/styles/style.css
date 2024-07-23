@@ -48,7 +48,7 @@ body {
 /* Password */
 #password_container {
     width: 100%;
-    max-width: 400px;
+    max-width: 300px;
     display: none;
     justify-content: space-between;
     align-items: center;
@@ -86,7 +86,7 @@ body {
 
 /* Items */
 #password_items {
-    width: 400px;
+    width: 380px;
     background-color: var(--color-neutral-2);
     color: var(--color-neutral-1);
     border-radius: 8px;
