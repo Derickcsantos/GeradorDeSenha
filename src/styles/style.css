@@ -40,7 +40,7 @@ body {
 }
 
 #title {
-    color: var(--color-primary-1);
+    color: var(--color-neutral-1);
     font-weight: 500;
     margin-bottom: 10px;
 }
@@ -127,10 +127,9 @@ body {
     font-size: 16px;
     font-weight: 500;
     cursor: pointer;
-    transition: .4s;
+    transition: background-color .4s;
 }
 
 #generate:hover {
     background-color: var(--color-primary-2);
 }
-
